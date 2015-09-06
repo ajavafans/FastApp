@@ -1,0 +1,5 @@
+include ':lib:MyFramework', ':volley'
+include ':lib:MyUtil'
+include ':lib:MyCommon'
+include ':lib:MyCommonUI'
+include ':app:MySample'
